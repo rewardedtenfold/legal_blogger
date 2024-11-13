@@ -1,2 +1,2 @@
-var namaapk = 'Adh Dhiyaul Lami';
-var folderapk = 'adhdhiyaullami';
+var namaapk = 'Doa Shalat Witir';
+var folderapk = 'doashalatwitir';
