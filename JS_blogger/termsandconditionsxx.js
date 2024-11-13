@@ -1,4 +1,3 @@
-//<![CDATA[
 	var jsdivus =
 		"<h2 id='atas'></br>JUDUL</h2>"+
 		"<p style='text-align:justify'>By downloading or using this NAMAAPK app (hereinafter referred to as SERVICE), this JUDUL will automatically apply to you (hereinafter referred to as USER). Therefore, USER should make sure that USER read this JUDUL carefully before using SERVICE.</p>"+
@@ -69,5 +68,4 @@
 		"<h3>Hubungi Kami</h3>"+
 		"<p style='text-align:justify'>Jika PENGGUNA memiliki pertanyaan atau saran tentang JUDUL ini, PENGGUNA dapat menghubungi PENYEDIA di EMAILRTF.</p>"+
 		"<p style='text-align:center'></br></br></br></br>Terakhir diperbarui pada 26 Agustus 2024.</br></br></p>";
-//]]>
 		
