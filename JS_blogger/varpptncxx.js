@@ -7,7 +7,7 @@
 	var langid = 'Bahasa Indonesia';
 
 	var divtombollang = document.getElementById('tombollang');
-	divtombollang.innerHTML = "<button id='toggle' onclick='swaptext()'>" + langid + "</button>";
+	divtombollang.innerHTML = "<topright><button id='toggle' onclick='swaptext()'>" + langid + "</button></topright>";
 
 	var texttitle = document.getElementById('title');
 	var textbutton = document.getElementById('toggle');
