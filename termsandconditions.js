@@ -1,7 +1,7 @@
 //<![CDATA[
 	var jsdivus =
 		"<h2 id='atas'></br>JUDUL</h2>"+
-		"<p style='text-align:justify'>UWO By downloading or using this NAMAAPK app (hereinafter referred to as SERVICE), this JUDUL will automatically apply to you (hereinafter referred to as USER). Therefore, USER should make sure that USER read this JUDUL carefully before using SERVICE.</p>"+
+		"<p style='text-align:justify'>By downloading or using this NAMAAPK app (hereinafter referred to as SERVICE), this JUDUL will automatically apply to you (hereinafter referred to as USER). Therefore, USER should make sure that USER read this JUDUL carefully before using SERVICE.</p>"+
 		"<h3>Modification</h3>"+
 		"<p style='text-align:justify'>USER is not allowed to modify SERVICE, any part of SERVICE, in any way. USER is not allowed to attempt to extract the source code of SERVICE, and USER also shouldn't try to translate SERVICE into other languages, or make derivative versions. SERVICE itself still belongs to NAMARTF (hereinafter referred to as PROVIDER).</p>"+
 		"<h3>Privacy and Security</h3>"+
