@@ -55,7 +55,7 @@
 
 
 	var jsdivid =
-		"<h2></br>JUDUL</h2>"+
+		"<h2></br></br></br>JUDUL</h2>"+
 		"<p style='text-align:justify'>NAMARTF (selanjutnya disebut sebagai PENYEDIA) membuat aplikasi NAMAAPK (selanjutnya disebut sebagai LAYANAN) sebagai aplikasi yang didukung iklan. LAYANAN disediakan oleh PENYEDIA kepada pengguna (selanjutnya disebut sebagai PENGGUNA) LAYANAN dengan tanpa biaya dan dimaksudkan untuk digunakan sebagaimana mestinya.</p>"+
 		"<p style='text-align:justify'>Halaman ini digunakan untuk memberi tahu PENGGUNA mengenai kebijakan PENYEDIA terhadap pengumpulan, penggunaan, dan pengungkapan data pribadi apabila PENGGUNA memutuskan untuk menggunakan LAYANAN. Jika PENGGUNA memilih untuk menggunakan LAYANAN, maka JUDUL ini secara otomatis akan berlaku untuk PENGGUNA. Karena itu, PENGGUNA harus memastikan bahwa PENGGUNA membaca JUDUL ini dengan cermat sebelum menggunakan LAYANAN.</p>"+
 		"<p style='text-align:justify'>Ketentuan-ketentuan yang digunakan dalam JUDUL ini memiliki arti yang sama seperti dalam <a href='HREFPPTNC'><u>LINKPPTNC</u></a> PENYEDIA, kecuali ditentukan lain di dalam JUDUL ini.</p>"+
