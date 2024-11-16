@@ -1,6 +1,6 @@
 //<![CDATA[
 	var jsdivus =
-		"<h2></br>JUDUL</h2>"+
+		"<h2></br></br></br>JUDUL</h2>"+
 		"<p style='text-align:justify'>NAMARTF (hereinafter referred to as PROVIDER) built the NAMAAPK app (hereinafter referred to as SERVICE) as an ads-supported app. SERVICE is provided by PROVIDER for user (hereinafter referred to as USER) of SERVICE at no cost and is intended for use as is.</p>"+
 		"<p style='text-align:justify'>This page is used to inform USER regarding PROVIDER's policies with the collection, use, and disclosure of personal information if USER decided to use SERVICE. If USER chooses to use SERVICE, then this JUDUL will automatically apply to USER. Therefore, USER should make sure that USER read this JUDUL carefully before using SERVICE.</p>"+
 		"<p style='text-align:justify'>The terms used in this JUDUL have the same meanings as in PROVIDER's <a href='HREFPPTNC'><u>LINKPPTNC</u></a>, unless otherwise defined in this JUDUL.</p>"+
