@@ -37,7 +37,7 @@
 
 
 	var jsdivid =
-		"<h2 id='atas'></br>JUDUL</h2>"+
+		"<h2 id='atas'></br></br></br>JUDUL</h2>"+
 		"<p style='text-align:justify'>Dengan mengunduh atau menggunakan aplikasi NAMAAPK (selanjutnya disebut sebagai LAYANAN) ini, JUDUL ini akan berlaku secara otomatis untuk Anda (selanjutnya disebut sebagai PENGGUNA). Karena itu, PENGGUNA harus memastikan bahwa PENGGUNA membaca JUDUL ini dengan cermat sebelum menggunakan LAYANAN.</p>"+
 		"<h3>Modifikasi</h3>"+
 		"<p style='text-align:justify'>PENGGUNA tidak diperbolehkan memodifikasi LAYANAN, bagian apa pun dari LAYANAN, dengan cara apa pun. PENGGUNA tidak diizinkan untuk mencoba mengekstrak kode sumber LAYANAN, dan PENGGUNA juga tidak boleh mencoba menerjemahkan LAYANAN ke dalam bahasa lain, atau membuat versi turunan. LAYANAN sendiri masih milik NAMARTF (selanjutnya disebut sebagai PENYEDIA).</p>"+
